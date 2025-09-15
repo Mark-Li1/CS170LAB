@@ -3,7 +3,7 @@
 // THIS CODE WAS MY OWN WORK , IT WAS WRITTEN WITHOUT
 // CONSULTING ANY SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR .
 // Mark Li
-
+//
 public class Lab2 {
     public static void main(String[] args){
         //Declare relevant variables -- Task 3
