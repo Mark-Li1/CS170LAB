@@ -14,6 +14,7 @@ public class CodingProblem2 {
         System.out.println(intVar1 + " + " + intVar2 + " = " + add(intVar1,intVar2));
         System.out.println(floatVar1 + " + " + floatVar2 + " = " + add(floatVar1,floatVar2));
         System.out.println(charVar1 + " + " + charVar2 + " = " + add(charVar1,charVar2));
+
     }
     //Method overloading my beloved
     static int add(int a, int b){
