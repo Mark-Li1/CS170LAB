@@ -1,3 +1,9 @@
+// Name : Mark Li
+// mli585@emory.edu / 2768161
+// THIS CODE WAS MY OWN WORK , IT WAS WRITTEN WITHOUT
+// CONSULTING ANY SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR .
+// Mark Li
+
 public class CodingProblem3 {
     public static void main(String[] args){
         displayOddPrimes(500);
